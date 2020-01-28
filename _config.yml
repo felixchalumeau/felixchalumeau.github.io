@@ -16,8 +16,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Félix Chalumeau
+  tagline: Student in Applied Mathematics and Machine Learning.
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
