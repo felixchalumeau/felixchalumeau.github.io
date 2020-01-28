@@ -1,10 +1,8 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: Félix Chalumeau
+author: Félix CHalumeau
+email: felix.chalumeau@hotmail.fr
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal website of Felix Chalumeau.
 show_excerpts: true # set to true to show excerpts on the homepage
 remote_theme: thelehhman/texture
 theme: texture
@@ -26,8 +24,8 @@ texture:
   # generate social links in footer
   social_links:
     twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    github:  https://github.com/felixchalumeau
+    linkedIn: https://www.linkedin.com/in/f%C3%A9lix-chalumeau-083457172/
     rss: rss
  
 
