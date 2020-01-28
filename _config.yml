@@ -23,9 +23,8 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  https://github.com/felixchalumeau
-    linkedIn: https://www.linkedin.com/in/f%C3%A9lix-chalumeau-083457172/
+    github: felixchalumeau
+    linkedIn: in/f%C3%A9lix-chalumeau-083457172/
     rss: rss
  
 
